@@ -16,6 +16,7 @@ h2 {
   text-align: center;
 }
 
-video {
-  text-align: center;
+.align {
+   margin: 0 auto;
+   width: 400px;
 }
